@@ -1,6 +1,8 @@
 # PI-IRAP Shiny app
 
-An R Shiny app to calculate PI-IRAP scores from IRAP data
+An R Shiny app to calculate PI-IRAP scores from IRAP data. 
+
+The Implicit Relational Assessment Procedure (IRAP) is an indirect measure of implicit attitudes. IRAP effects are most commonly quantified using a variant of the D scoring algorithm (Greenwald et al., 2003). Here we propose an alternative scoring algorithm, the Probabilistic Index (PI: Thas et al., 2012). Using a gender IRAP dataset (N = 188), we demonstrate that it is more robust to the influence of outliers, which are very common in reaction time data. We also provide a Shiny app implementation of the PI-IRAP algorithm, as well as the R source code.
 
 ## License
 

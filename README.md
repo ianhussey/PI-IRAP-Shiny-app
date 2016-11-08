@@ -18,6 +18,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 0.1
 
+## To do
+
+1. Work on the notation and presentation of the app
+2. Add overall PI overall score calculations (including for Cronbach's alpha)
+3. Add D scores for comparison
+4. Provide a link to Maarten's VB6 IRAP data cleaning scripts within the shiny app
+5. Add PI calculation to Ian's Open Source IRAP R script, or a cleaning script to data from it work with the shiny app
+
 ## Reference
 
-De Schryver, M., Hussey, I., De Neve, J., Cartwright, A., & Barnes-Holmes, D. (under review). The PIIRAP: An alternative scoring algorithm for the IRAP using a more robust effect size measure. http://osf.io/4cmsm
+De Schryver, M., Hussey, I., De Neve, J., Cartwright, A., & Barnes-Holmes, D. (under review). The PI-IRAP: An alternative scoring algorithm for the IRAP using a more robust effect size measure. http://osf.io/4cmsm

@@ -1,4 +1,4 @@
 library(shiny)
 
-runApp("Implicit_app")
+runApp("PI-IRAP")
 
